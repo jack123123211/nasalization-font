@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nasalization Font Test</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      font-family: 'Nasalization', sans-serif;
+      font-size: 2rem;
+      text-align: center;
+      margin-top: 50px;
+    }
+  </style>
+</head>
+<body>
+  Nasalization Font is Working!
+</body>
+</html>
